@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
   const fs = require("fs");
@@ -26,3 +27,6 @@ fs.readFile("./data.json", "utf8", (err, data) => {
     console.log("Invalid month. Please enter a valid month name.");
   }
 });
+=======
+// Create a Node app that determines the birthstone based on a month inputted by the user. Refer to the README instructions. 
+>>>>>>> 8bd40bdbddabea7fcd2d7c0f9886b4ff85ba4bd9
